@@ -391,6 +391,7 @@ header .container {
   border: 1px solid var(--onyx-1);
   border-radius: 4px;
   text-align: center;
+  cursor: pointer;
 }
 .about-card::before,
 .about-card::after {
